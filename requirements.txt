@@ -1,0 +1,13 @@
+certifi
+charset-normalizer
+greenlet
+idna
+pip
+psycopg2-binary
+python-dotenv
+requests
+setuptools
+SQLAlchemy
+structlog
+typing_extensions
+urllib3
